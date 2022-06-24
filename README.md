@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhksandeep25/)
+
+- 🔭 I’m currently working on - Data, Platform features and Infra improvement at [Spinny](https://spinny.com) 
+- 🌱 [I’m currently reading](https://singhsandeep.notion.site/What-I-am-reading-Sandeep-70e56937090b4301a1d0b5906e795240)
+- 💬 Ask me about backend engineering, databases, data pipeline, data science in production, aws, dev-ops, ml-ops, automation etc 
+- 📫 How to reach me - [Twitter],(https://twitter.com/bettersandeep)
+- 😄 Pronouns: He/Him
+
 <!--
 **singhksandeep25/singhksandeep25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
