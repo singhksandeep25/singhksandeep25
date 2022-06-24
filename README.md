@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on - Data, Platform features and Infra improvement at [Spinny](https://spinny.com) 
 - 🌱 [I’m currently reading](https://singhsandeep.notion.site/What-I-am-reading-Sandeep-70e56937090b4301a1d0b5906e795240)
 - 💬 Ask me about backend engineering, databases, data pipeline, data science in production, aws, dev-ops, ml-ops, automation etc 
-- 📫 How to reach me - [Twitter],(https://twitter.com/bettersandeep)
+- 📫 How to reach me - [Twitter](https://twitter.com/bettersandeep)
 - 😄 Pronouns: He/Him
 
 <!--
